@@ -1,0 +1,13 @@
+C:\Blabz\RFP\EmpWage\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.exe
+C:\Blabz\RFP\EmpWage\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.deps.json
+C:\Blabz\RFP\EmpWage\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.runtimeconfig.json
+C:\Blabz\RFP\EmpWage\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.runtimeconfig.dev.json
+C:\Blabz\RFP\EmpWage\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.dll
+C:\Blabz\RFP\EmpWage\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.pdb
+C:\Blabz\RFP\EmpWage\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blabz\RFP\EmpWage\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.AssemblyInfoInputs.cache
+C:\Blabz\RFP\EmpWage\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.AssemblyInfo.cs
+C:\Blabz\RFP\EmpWage\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.csproj.CoreCompileInputs.cache
+C:\Blabz\RFP\EmpWage\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.dll
+C:\Blabz\RFP\EmpWage\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.pdb
+C:\Blabz\RFP\EmpWage\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.genruntimeconfig.cache
