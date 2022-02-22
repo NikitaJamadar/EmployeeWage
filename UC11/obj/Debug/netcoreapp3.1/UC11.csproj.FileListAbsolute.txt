@@ -1,0 +1,14 @@
+D:\Blabz\RFP\EmpWage\UC11\UC11\bin\Debug\netcoreapp3.1\UC11.exe
+D:\Blabz\RFP\EmpWage\UC11\UC11\bin\Debug\netcoreapp3.1\UC11.deps.json
+D:\Blabz\RFP\EmpWage\UC11\UC11\bin\Debug\netcoreapp3.1\UC11.runtimeconfig.json
+D:\Blabz\RFP\EmpWage\UC11\UC11\bin\Debug\netcoreapp3.1\UC11.runtimeconfig.dev.json
+D:\Blabz\RFP\EmpWage\UC11\UC11\bin\Debug\netcoreapp3.1\UC11.dll
+D:\Blabz\RFP\EmpWage\UC11\UC11\bin\Debug\netcoreapp3.1\UC11.pdb
+D:\Blabz\RFP\EmpWage\UC11\UC11\obj\Debug\netcoreapp3.1\UC11.csproj.AssemblyReference.cache
+D:\Blabz\RFP\EmpWage\UC11\UC11\obj\Debug\netcoreapp3.1\UC11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blabz\RFP\EmpWage\UC11\UC11\obj\Debug\netcoreapp3.1\UC11.AssemblyInfoInputs.cache
+D:\Blabz\RFP\EmpWage\UC11\UC11\obj\Debug\netcoreapp3.1\UC11.AssemblyInfo.cs
+D:\Blabz\RFP\EmpWage\UC11\UC11\obj\Debug\netcoreapp3.1\UC11.csproj.CoreCompileInputs.cache
+D:\Blabz\RFP\EmpWage\UC11\UC11\obj\Debug\netcoreapp3.1\UC11.dll
+D:\Blabz\RFP\EmpWage\UC11\UC11\obj\Debug\netcoreapp3.1\UC11.pdb
+D:\Blabz\RFP\EmpWage\UC11\UC11\obj\Debug\netcoreapp3.1\UC11.genruntimeconfig.cache
